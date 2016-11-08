@@ -1,0 +1,63 @@
+*{
+  box-sizing: border-box;
+  word-wrap: break-word;
+}
+.jaune {
+  background: yellow;
+  border: 4px solid black;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.blanc {
+  background: white;
+  border: 4px solid black;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+  .tailemini {
+      height: 21vh;
+  }
+
+.tailemini-S {
+  height: 28vh;
+}
+.taille {
+  height: 60vh;
+}
+.taille-xs {
+  height: 10vh;
+}
+.taille-xss {
+  height: 14vh;
+}
+.taille-middle {
+  height: 27vh;
+}
+.taille-middle-s {
+  height: 24vh;
+}
+.bleu {
+  background-color: blue;
+  border: 4px solid black;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.rouge {
+  background-color: red;
+  border: 4px solid black;
+  overflow: hidden;
+  z-index: 1;
+  box-sizing: border-box;
+}
+.position {
+  position: absolute;
+  bottom: 0;
+}
+
+/*media*/
+
+.no-marge {
+  padding-left: 0;
+  padding-right: 0;
+}
